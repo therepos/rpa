@@ -27,17 +27,6 @@ export default {
           sidebarCollapsible: true,
           editUrl: `https://github.com/${org}/${repo}/edit/main/`,
         },
-        blog: {
-          path: 'blog',
-          routeBasePath: 'blog',
-          // blogTitle: 'Blog',
-          // blogDescription: 'Thoughts and updates.',
-          // blogSidebarTitle: 'Timeline',
-          blogSidebarTitle: 'Timeline',
-          blogSidebarCount: 'ALL',
-          onUntruncatedBlogPosts: 'ignore',
-          showReadingTime: true,
-        },
         theme: {
           customCss: './src/css/styles.css',
         },
@@ -50,12 +39,6 @@ export default {
       title: 'Docs',
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'aboutSidebar',
-          position: 'left',
-          label: 'About',
-        },
-        {
           type: 'search',
           position: 'right',
         },
@@ -64,11 +47,6 @@ export default {
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
-        },
-        {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left',
         },
       ],
     },
