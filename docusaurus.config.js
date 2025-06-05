@@ -36,7 +36,7 @@ export default {
 
   themeConfig: {
     navbar: {
-      title: 'Docs',
+      title: 'RPA',
       items: [
         {
           type: 'search',
