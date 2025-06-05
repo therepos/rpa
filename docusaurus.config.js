@@ -60,7 +60,7 @@ export default {
           position: 'right',
         },
         {
-          href: `https://github.com/${org}/${repo}1,
+          href: `https://github.com/${org}/${repo}`,
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
