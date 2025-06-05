@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_site=self.webpackChunkdocusaurus_site||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Timeline","items":[{"title":"Updates","permalink":"/webextension/blog/2025/05/29/post","unlisted":false,"date":"2025-05-29T00:00:00.000Z"}]}')}}]);
