@@ -1,3 +1,3 @@
 # About
 
-This is a starter page.
+This site documents use of Robotic Process Automation.
