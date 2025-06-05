@@ -39,12 +39,6 @@ export default {
       title: 'Docs',
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'aboutSidebar',
-          position: 'left',
-          label: 'About',
-        },
-        {
           type: 'search',
           position: 'right',
         },
