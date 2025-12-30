@@ -1,5 +1,3 @@
-# RPA
-
 ## Usage
 
 1. Download to run the experimental scripts.
