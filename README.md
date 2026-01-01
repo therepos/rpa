@@ -9,7 +9,7 @@ rpa
 ├── apps                
 │   ├── ahk             # autohotkey
 │   ├── python
-│   ├── win             # windows scripts
+│   └── win             # windows scripts
 ├── docs
 ├── scraps
 └── tmp
